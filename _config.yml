@@ -1,2 +1,11 @@
 theme: minima
 title: Hannah Burkhardt
+
+# refer to http://shopify.github.io/liquid/filters/date/
+minima:
+  date_format: "%Y-%m-%d"
+
+  # generate social links in footer
+  social_links:
+    github:  hannahburkhardt
+    linkedin: hannahburkhardt
