@@ -1,2 +1,1 @@
-# Hi!
-I'm Hannah, a first year Ph.D. student in the Biomedical and Health Informatics program at the University of Washington.
+This comes from index.md
