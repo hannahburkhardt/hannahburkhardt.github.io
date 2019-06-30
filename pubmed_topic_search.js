@@ -109,7 +109,7 @@ function updateChart() {
     var db = document.getElementById("PMC").checked ? "pmc" : "pubmed";
 
     // run in a different thread using a worker
-    var worker = new Worker("pubmed_topic_search.js");
+    var worker = new Worker("pubmed_topic_search.js")
     worker.onmessage = function (e) {
         var embedOpt = {"mode": "vega-lite"};
 
