@@ -6,6 +6,7 @@ Check out [my LinkedIn page](https://www.linkedin.com/in/hannahburkhardt/)!
 ## Journal & Conference Publications
 Burkhardt, H. A., Subramanian, D., Mower, J., & Cohen, T. (2019). Predicting Adverse Drug-Drug Interactions with Neural Embedding of Semantic Predications. To Appear in Proc AMIA Annu Symp 2019. Winner of the Knowledge Discovery and Data Mining Student Innovation Award.<br>[[Manuscript on AMIA conference website]](https://symposium2019.zerista.com/event/member/602035) [[Read on BioRxiv]](https://www.biorxiv.org/content/10.1101/752022v2.full)
 
+Thomas, J. A. and Burkhardt, H. A., Chaudhry, S., Ngo, A. D., Sharma, S., Zhang, L., Au, R., Hosseini Ghomi, R. (2020). Assessing the Utility of Voice Biomarkers to Predict Cognitive Impairment in the Framingham Heart Study Cognitive Aging Cohort Data. To Appear in Journal of Alzheimer's Disease.
 
 ## Poster Presentations
 **Predicting Adverse Drug-Drug Interactions with Neural Embedding of Semantic Predications.** <br>2019 NLM Training Conference (Indianapolis, IN)<br>June 25, 2019<br>[[PDF]](2019%20NLM%20Poster.pdf)
