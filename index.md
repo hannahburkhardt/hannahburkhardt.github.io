@@ -1,3 +1,5 @@
+<a href="https://www.linkedin.com/in/hannahburkhardt/"><img src="hannah.png" alt="LinkedIn"></a>
+
 I'm Hannah, a Ph.D. student in the Biomedical and Health Informatics (BHI) program at the [University of Washington](http://bime.uw.edu/) since 2018. My advisor is [Trevor Cohen](http://bime.uw.edu/faculty/trevor-cohen/). I also work with [Bill Lober and the Clinical Informatics Research Group (CIRG)](https://www.cirg.washington.edu/) and [Reza Hosseini Ghomi and the DigiPsych Lab](http://www.rezahosseinighomi.com/about.html).
 I am interested in clinical informatics, especially clinical decision support and predictive analytics; mobile health; distributional representations and semantics; mental health informatics; and data science and machine learning for all things BHI. 
 
