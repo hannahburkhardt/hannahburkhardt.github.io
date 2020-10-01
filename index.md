@@ -17,6 +17,6 @@ Burkhardt, H. A., Subramanian, D., Mower, J., & Cohen, T. (2019). Predicting Adv
 **Predicting Adverse Drug-Drug Interactions with Neural Embedding of Semantic Predications.** <br>2019 NLM Training Conference (Indianapolis, IN)<br>June 25, 2019<br>[[PDF]](2019%20NLM%20Poster.pdf)
 
 ## Talks
-**StayHome: A FHIR-Native Mobile COVID-19 Symptom Tracker and Public Health Reporting Tool.** University of Washington FHIR Conference, Seattle, WA (September 2020)
+**StayHome: A FHIR-Native Mobile COVID-19 Symptom Tracker and Public Health Reporting Tool.** University of Washington FHIR Conference, Seattle, WA. September 2020.
 
 **Mobile PROs with FHIR.** Seattle on FHIR Meetup. October 2019.<br>[[Notes and Recording]](https://github.com/uw-fhir/Talks/blob/master/20191023_Meetup_OpenMRS_FHIR/openmrs_fhir_meetup.md)
