@@ -6,7 +6,9 @@ I am interested in clinical informatics, especially clinical decision support an
 Check out [my LinkedIn page](https://www.linkedin.com/in/hannahburkhardt/)!
 
 ## Journal & Conference Publications
-Burkhardt, H.A., Brandt, P.S., Lee, J.R., Karras, S.W., Bugni, P.F., Cvitkovic, I., Chen, A.Y., Lober, W.B. (2020). StayHome: A FHIR-Native Mobile COVID-19 Symptom Tracker and Public Health Reporting Tool. (Submitted)
+Burkhardt, H. A., Alexopoulos, G. S., Pullmann, M. D., Hull, T. D., Areán, P. A., & Cohen, T. (2021). Behavioral Activation and Depression Symptomatology: Longitudinal Assessment of Linguistic Indicators in Text-Based Therapy Sessions. Journal of Medical Internet Research, 23(7), e28244. https://doi.org/10.2196/28244
+
+Burkhardt, H., Brandt, P., Lee, J., Karras, S., Bugni, P., Cvitkovic, I., Chen, A., & Lober, W. (2021). StayHome: A FHIR-Native Mobile COVID-19 Symptom Tracker and Public Health Reporting Tool. Online Journal of Public Health Informatics, 13(1). https://doi.org/10.5210/ojphi.v13i1.11462
 
 Thomas, J. A. and Burkhardt, H. A., Chaudhry, S., Ngo, A. D., Sharma, S., Zhang, L., Au, R., Hosseini Ghomi, R. (2020). Assessing the Utility of Language and Voice Biomarkers to Predict Cognitive Impairment in the Framingham Heart Study Cognitive Aging Cohort Data. Journal of Alzheimer’s Disease: JAD, 76(3), 905–922. https://doi.org/10.3233/JAD-190783
 
