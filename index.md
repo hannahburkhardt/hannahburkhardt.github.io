@@ -5,6 +5,8 @@ I am interested in clinical informatics, especially clinical decision support an
 
 Check out [my LinkedIn page](https://www.linkedin.com/in/hannahburkhardt/)!
 
+[Curricumul Vitae](2022%20HAB%20CV.pdf)!
+
 ## Journal & Conference Publications
 Burkhardt, H. A., Laine, M., Kerbrat, A., Cohen, T., Comtois, K. A., & Hartzler, A. (2022). Identifying opportunities for informatics-supported suicide prevention: the case of Caring Contacts. Proceedings of the AMIA Annual Symposium 2022.
 
