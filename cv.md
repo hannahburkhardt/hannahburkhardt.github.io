@@ -1,1 +1,1 @@
-<img src="CV%20QR%20Code%20.jpg" >
+<img src="CV%20QR%20Codejpg.jpg" >
