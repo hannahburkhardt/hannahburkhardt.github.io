@@ -14,23 +14,27 @@ I am interested in clinical informatics, especially clinical decision support an
 
 Check out [my LinkedIn page](https://www.linkedin.com/in/hannahburkhardt/)!
 
-[Curriculum Vitae](2023-02-06%20HAB%20CV.pdf)!
+[Curriculum Vitae](2023-02-06%20HAB%20CV.pdf)
+
+**Dissertation:** Burkhardt, H. A. (2022). Needs-driven, utility-oriented, standards-based operationalization of artificial intelligence for clinical decision support: a framework with application to suicide prevention. [[PDF]](Burkhardt%20Dissertation.pdf)
 
 ## Journal & Conference Publications
-Burkhardt, H. A., Laine, M., Kerbrat, A., Cohen, T., Comtois, K. A., & Hartzler, A. (2022). Identifying opportunities for informatics-supported suicide prevention: the case of Caring Contacts. Proceedings of the AMIA Annual Symposium 2022.
+Burkhardt, H. A., Laine, M., Kerbrat, A., Cohen, T., Comtois, K. A., & Hartzler, A. (2022). Identifying opportunities for informatics-supported suicide prevention: the case of Caring Contacts. Proceedings of the AMIA Annual Symposium 2022. *Distinguished Paper Award.*
 
 Burkhardt, H. A., Pullmann, M. D., Hull, T. D., Areán, P. A., & Cohen, T. (2022). Comparing emotion feature extraction approaches for predicting depression and anxiety. NAACL 2022. Proceedings of the Eighth Workshop on Computational Linguistics and Clinical Psychology. [[Paper]](clpsych_paper_2022.pdf) [[Poster]](clpsych_poster_2022.pdf) [[Slides]](clpsych_slides_2022.pdf)
 
 Burkhardt, H. A., Alexopoulos, G. S., Pullmann, M. D., Hull, T. D., Areán, P. A., & Cohen, T. (2021). Behavioral Activation and Depression Symptomatology: Longitudinal Assessment of Linguistic Indicators in Text-Based Therapy Sessions. Journal of Medical Internet Research, 23(7), e28244. https://doi.org/10.2196/28244
 
-Burkhardt, H., Brandt, P., Lee, J., Karras, S., Bugni, P., Cvitkovic, I., Chen, A., & Lober, W. (2021). StayHome: A FHIR-Native Mobile COVID-19 Symptom Tracker and Public Health Reporting Tool. Online Journal of Public Health Informatics, 13(1). https://doi.org/10.5210/ojphi.v13i1.11462
+Burkhardt, H., Brandt, P., Lee, J., Karras, S., Bugni, P., Cvitkovic, I., Chen, A., & Lober, W. (2021). StayHome: A FHIR-Native Mobile COVID-19 Symptom Tracker and Public Health Reporting Tool. Online Journal of Public Health Informatics, 13(1). https://doi.org/10.5210/ojphi.v13i1.11462 (Open Access) [[PDF]](Burkhardt%202021%20StayHome.pdf)
 
 Thomas, J. A.* and Burkhardt, H. A.*, Chaudhry, S., Ngo, A. D., Sharma, S., Zhang, L., Au, R., Hosseini Ghomi, R. (2020). Assessing the Utility of Language and Voice Biomarkers to Predict Cognitive Impairment in the Framingham Heart Study Cognitive Aging Cohort Data. Journal of Alzheimer’s Disease: JAD, 76(3), 905–922. https://doi.org/10.3233/JAD-190783. (\* indicates equal contributions)
 
-Burkhardt, H. A., Subramanian, D., Mower, J., & Cohen, T. (2019). Predicting Adverse Drug-Drug Interactions with Neural Embedding of Semantic Predications. Proc AMIA Annu Symp 2019. Winner of the Knowledge Discovery and Data Mining Student Innovation Award.<br>[[Manuscript on AMIA conference website]](https://symposium2019.zerista.com/event/member/602035) [[Read on BioRxiv]](https://www.biorxiv.org/content/10.1101/752022v2.full)
+Burkhardt, H. A., Subramanian, D., Mower, J., & Cohen, T. (2019). Predicting Adverse Drug-Drug Interactions with Neural Embedding of Semantic Predications. Proc AMIA Annu Symp 2019. *Knowledge Discovery and Data Mining Student Innovation Award.* [[Manuscript on AMIA conference website]](https://symposium2019.zerista.com/event/member/602035) [[Read on BioRxiv]](https://www.biorxiv.org/content/10.1101/752022v2.full)
 
 
 ## Poster Presentations
+Burkhardt, H. A., Prado, M. G., Kessler, L. G., Au, M. A., Zigman Suchsland, M., Kowalski, L., Stephens, K. A., Yetisgen, M., Walter, F. M., Neal, R. D., Lybarger, K., Thompson, C. A., Achkar, M. Al, Sarma, E. A., Turner, G., Farjah, F., & Thompson, M. (2022). Signs and symptoms extracted from Electronic Health Records with AI predict lung cancer diagnosis at least 6 months in advance. The Early Detection of Cancer Conference.[[PDF]][2022-10-04%20Early%20detection%20conference%20poster%20final.pdf]
+
 Burkhardt, H.A., Portanova, J. (2021) Teaching issues of research reproducibility through first-hand experience. 17th Annual UW Teaching and Learning Symposium. 
 
 Burkhardt, H.A., Dobbins, N., Mollis, B., Au, M., Kwan Ma, K.P., Yetisgen, M., Singh, A., Thompson, M., Stephens, K.A. (2021). Extracting COVID-19 Related Symptoms from EHR Data: A Comparison of Three Methods. AMIA Virtual Informatics Summit 2021. [[PDF]](informatics_summit_poster_2021.pdf)
