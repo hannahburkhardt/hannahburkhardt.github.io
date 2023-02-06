@@ -14,7 +14,7 @@ I am interested in clinical informatics, especially clinical decision support an
 
 Check out [my LinkedIn page](https://www.linkedin.com/in/hannahburkhardt/)!
 
-[Curriculum Vitae](20HAB%20CV.pdf)
+[Curriculum Vitae](HAB%20CV.pdf)
 
 **Dissertation:** Burkhardt, H. A. (2022). Needs-driven, utility-oriented, standards-based operationalization of artificial intelligence for clinical decision support: a framework with application to suicide prevention. [[PDF]](Burkhardt%20Dissertation.pdf)
 
