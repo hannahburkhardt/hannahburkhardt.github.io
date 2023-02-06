@@ -1,11 +1,20 @@
 <a href="https://www.linkedin.com/in/hannahburkhardt/"><img src="hannah.png" alt="LinkedIn"></a>
 
-I'm Hannah, a Ph.D. student and NLM Predoctoral Fellow in the Biomedical and Health Informatics (BHI) program at the [University of Washington](http://bime.uw.edu/) since 2018, with a prospective graduation date of December 2022. My advisor is [Trevor Cohen](http://bime.uw.edu/faculty/trevor-cohen/). I also work with [Bill Lober and the Clinical Informatics Research Group (CIRG)](https://www.cirg.washington.edu/), [Kari Stephens](https://escience.washington.edu/people/kari-stephens/), and [Matthew Thompson](https://www.uwmedicine.org/bios/matthew-j-thompson).
+Hi! I'm Hannah, a software engineer with 8 years of experience & Biomedical Informatics Ph.D. with 14 peer-reviewed publications.
+
+I recently graduated with my Ph.D. in biomedical and health informatics from the University of Washington. I am now looking for opportunities leveraging my broad technical and research skills and subject matter expertise toward innovative and impactful technical problems in the digital health space.
+
+I am a software engineer and biomedical informatics researcher with 8 years of experience. 
+I have 4 years of professional software engineering experience working for the leading electronic health records company. In this role, I worked with a high level of autonomy, leading several projects and initiatives, teaching programming to non-technical staff, and mentoring interns and new hires. 
+I have an additional 4 years of experience conducting applied informatics research, including software development and data science for a range of projects. My research focused, among other things, on machine learning and deep learning, natural language processing for mental health applications, FHIR-based application development for COVID-19 symptom monitoring as well as for suicide prevention, and user research (needs assessments). As a graduate research assistant, I also consulted as an informatician and biostatistician for several clinical research projects. My research has resulted in 14 peer-reviewed publications so far, with more underway.
+Finally, I am currently a biomedical informatics consultant for a large health system in Washington, developing guidance for a biomedical informatics research initiative aiming to capitalize on extensive electronic health records data.
+
+As an NLM Predoctoral Fellow in the Biomedical and Health Informatics (BHI) program at the [University of Washington](http://bime.uw.edu/), I worked with [Trevor Cohen](http://bime.uw.edu/faculty/trevor-cohen/), [Bill Lober and the Clinical Informatics Research Group (CIRG)](https://www.cirg.washington.edu/), [Andrea Hartzler](https://bime.uw.edu/faculty/andrea-hartzler/), [Kate Comtois](https://psychiatry.uw.edu/profile/katherine-comtois/), [Kari Stephens](https://escience.washington.edu/people/kari-stephens/), and [Matthew Thompson](https://www.uwmedicine.org/bios/matthew-j-thompson).
 I am interested in clinical informatics, especially clinical decision support and predictive analytics; mobile health; distributional representations and semantics; mental health informatics; and data science and machine learning for all things BHI. 
 
 Check out [my LinkedIn page](https://www.linkedin.com/in/hannahburkhardt/)!
 
-[Curricumul Vitae](2022%20HAB%20CV.pdf)!
+[Curriculum Vitae](2023-02-06%20HAB%20CV.pdf)!
 
 ## Journal & Conference Publications
 Burkhardt, H. A., Laine, M., Kerbrat, A., Cohen, T., Comtois, K. A., & Hartzler, A. (2022). Identifying opportunities for informatics-supported suicide prevention: the case of Caring Contacts. Proceedings of the AMIA Annual Symposium 2022.
